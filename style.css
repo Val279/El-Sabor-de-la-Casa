@@ -129,3 +129,14 @@ body{
     border-radius: 10px;
     flex-direction: row-reverse;
 }
+
+.galeria{
+    display: flex;
+    gap: 20px;
+}
+
+.card{
+    background-color: orange;
+    padding: 20px;
+    width: 300px;
+}
