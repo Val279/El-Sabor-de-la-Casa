@@ -122,7 +122,7 @@ body{
 }
 
 .producto2{
-     display: flex;
+    display: flex;
     padding: 40px;
     background-color: #fdc500;
     margin: 40px;
@@ -142,6 +142,8 @@ body{
 
 .galeria{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 20px;
     flex-wrap: wrap;
 }
