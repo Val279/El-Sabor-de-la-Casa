@@ -130,6 +130,10 @@ body{
     flex-direction: row-reverse;
 }
 
+.servicio{
+    padding: 40px;
+}
+
 .servicio h1{
     display: flex;
     justify-content: center;
