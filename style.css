@@ -135,6 +135,7 @@ body{
     gap: 20px;
     flex-wrap: wrap;
     margin: 40px;
+    padding: 20px;
 }
 
 .card{
