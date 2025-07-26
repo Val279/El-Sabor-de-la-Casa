@@ -130,12 +130,16 @@ body{
     flex-direction: row-reverse;
 }
 
+.servicio h1{
+    display: flex;
+    justify-content: center;
+    color: #fdc500;
+}
+
 .galeria{
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
-    margin: 40px;
-    padding: 20px;
 }
 
 .card{
