@@ -133,6 +133,8 @@ body{
 .galeria{
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
+    margin: 40px;
 }
 
 .card{
