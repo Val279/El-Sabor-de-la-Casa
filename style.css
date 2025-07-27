@@ -155,7 +155,7 @@ body{
     height: 600px;
     border: solid;
     border-radius: 10px;
-}
+}...
 
 .card img{
     width: 100%;
@@ -164,4 +164,10 @@ body{
 
 .card h2{
     text-align: center;
+}
+
+.card button{
+    background-color: #fcd500;
+    border-radius: 5px;
+    cursor: pointer;
 }
